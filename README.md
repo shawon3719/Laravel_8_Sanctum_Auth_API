@@ -1,5 +1,5 @@
 ## Laravel 8 Auth API using Sanctum.
-Basic Laravel 6 Authentication API using Sanctum.
+Laravel 8 Authentication API using Sanctum.
 
 ----
 
